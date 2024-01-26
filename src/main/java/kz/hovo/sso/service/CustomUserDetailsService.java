@@ -35,6 +35,8 @@ public class CustomUserDetailsService implements UserDetailsService {
                 .orElseThrow(() -> new UsernameNotFoundException("User not found with id: " + id));
     }
 
+
+
     public static Users build(Users users){
         List<GrantedAuthority> authorities = users.getRoles().stream()
                 .map(role -> new SimpleGrantedAuthority(role.name()))
