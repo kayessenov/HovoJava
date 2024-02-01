@@ -1,1 +1,1 @@
-![image](https://github.com/kayessenov/HovoJava/assets/93274931/84254cb3-8af4-4683-a55e-d1243b9b0f0d)
+![image](https://github.com/kayessenov/HovoJava/assets/93274931/77beac26-2153-41c3-8fe5-4be171f40445)
